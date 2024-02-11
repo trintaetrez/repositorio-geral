@@ -1,0 +1,17 @@
+.bi.bi-bug {
+    font-size: 30px;
+    color: purple;
+    background-color: lightcoral;
+}
+
+.bi.bi-arrow-through-heart {
+    font-size: 30px;
+    background-color: white;
+    color: red;
+}
+
+.bi.bi-lightning-charge {
+    font-size: 30px;
+    color: yellow;
+    background-color: lightgray;
+}
